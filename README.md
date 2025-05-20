@@ -15,7 +15,7 @@ This has yet to be updated, so it might not work and is not fully complete as of
   - [Proton-GE installation on reccomended distro](#protoninstall)
   - [Proton Activation](#ProtonON)
 - [Credits](#credits)
-- [Potenial Additions)(#whatfuture)
+- [Potenial Additions](#whatfuture)
 
 ## Overview
 
